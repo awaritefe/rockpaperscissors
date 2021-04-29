@@ -44,6 +44,7 @@ section {
   color: whitesmoke;
   background-color: plum;
   font-size: 20px;
+  cursor: pointer;
 }
 .match {
   position: absolute;
